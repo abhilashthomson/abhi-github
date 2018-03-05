@@ -1,0 +1,8 @@
+dialog based app-> will have CDialog class
+With a dialog based application you start with a CDialog as well. 
+
+sdi app -> will have cMainFrame /
+With an SDI application you start with CMainFrame, CDocument, and CView as well.
+
+
+C:\Program Files\Omnesys\NEST3
